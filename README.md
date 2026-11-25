@@ -5,7 +5,7 @@ lot size, food access, and proximity to EPA-tracked cleanup sites.
 
 **[Interactive map](https://faza-dzaki.github.io/detroit-urban-farm-suitability/)**
 
-![Map screenshot](docs/screenshot.png)
+![Map screenshot](docs/ss.png)
 
 ## Question
 Which vacant lots in Detroit are the best candidates for urban farming, given
