@@ -3,7 +3,7 @@
 Ranks vacant, land-bank-owned lots in Detroit for urban agriculture by combining
 lot size, food access, and proximity to EPA-tracked cleanup sites.
 
-**[Interactive map](https://USERNAME.github.io/detroit-urban-farm-suitability/)**
+**[Interactive map](https://faza-dzaki.github.io/detroit-urban-farm-suitability/)**
 
 ![Map screenshot](docs/screenshot.png)
 
